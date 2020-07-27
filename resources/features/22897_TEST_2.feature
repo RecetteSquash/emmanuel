@@ -1,7 +1,7 @@
 # language: en
-Feature: TEST_B
+Feature: TEST_2
 
-	Scenario: TEST_B
+	Scenario: TEST_2
 		Given Je tappe mon login
 		Given Je tappe mon mot de passe
 		When Je clique sur connexion
