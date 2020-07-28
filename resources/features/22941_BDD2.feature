@@ -1,5 +1,5 @@
 # language: en
-Feature: CTMotclé2
+Feature: BDD2
 
-	Scenario: CTMotclé2
+	Scenario: BDD2
 		Given J'ai un compte gmail
